@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitapdotnet", "Baitapdotnet\Baitapdotnet.csproj", "{8886157D-0A54-49AE-9B29-54AF87C3AD7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soto", "Soto\Soto.csproj", "{24D9D242-22C3-46A2-A381-9DB1C339C33E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8886157D-0A54-49AE-9B29-54AF87C3AD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8886157D-0A54-49AE-9B29-54AF87C3AD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8886157D-0A54-49AE-9B29-54AF87C3AD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D9D242-22C3-46A2-A381-9DB1C339C33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D9D242-22C3-46A2-A381-9DB1C339C33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D9D242-22C3-46A2-A381-9DB1C339C33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D9D242-22C3-46A2-A381-9DB1C339C33E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
