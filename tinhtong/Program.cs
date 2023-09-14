@@ -5,6 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
+
         int tong = 0;
         int so = 0;
         int b = 0;

@@ -50,6 +50,7 @@ class Program
 
         if (result != -1)
         {
+
             Console.WriteLine("Phan tu lon thu 2: " + result);
         }
     }
